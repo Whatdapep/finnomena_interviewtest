@@ -1,0 +1,806 @@
+{
+  "status": true,
+  "error": "",
+  "data": [
+    {
+      "mstar_id": "F00000LKGM",
+      "thailand_fund_code": "KT-PRECIOUS",
+      "nav_return": 2.98222,
+      "nav": 5.7116,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F00000LJKD",
+      "thailand_fund_code": "CHINA",
+      "nav_return": 2.85921,
+      "nav": 8.1015,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000015ZZI",
+      "thailand_fund_code": "B-CHINAARMF",
+      "nav_return": 2.42252,
+      "nav": 11.1829,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000QDH2",
+      "thailand_fund_code": "ABJO",
+      "nav_return": 2.3874,
+      "nav": 17.3871,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000V5FE",
+      "thailand_fund_code": "K-JP",
+      "nav_return": 2.37383,
+      "nav": 11.2947,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000V263",
+      "thailand_fund_code": "KJPRMF",
+      "nav_return": 2.36766,
+      "nav": 15.5476,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000WBWH",
+      "thailand_fund_code": "K-CHX",
+      "nav_return": 2.36766,
+      "nav": 14.0127,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000VVBC",
+      "thailand_fund_code": "K-ICT",
+      "nav_return": 2.23393,
+      "nav": 9.7432,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": -0.545874
+    },
+    {
+      "mstar_id": "F00001782A",
+      "thailand_fund_code": "SCBCHTG2",
+      "nav_return": 2.22515,
+      "nav": 9.6379,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": -0.006421
+    },
+    {
+      "mstar_id": "F00001CI7P",
+      "thailand_fund_code": "SCBBLOC(E)",
+      "nav_return": 2.19622,
+      "nav": 10.2448,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F00001CI7K",
+      "thailand_fund_code": "SCBBLOC(A)",
+      "nav_return": 2.19273,
+      "nav": 10.132,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F0000172GE",
+      "thailand_fund_code": "WE-CANAB",
+      "nav_return": 2.1234,
+      "nav": 7.9385,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F00000Q8V5",
+      "thailand_fund_code": "TISCOJP",
+      "nav_return": 2.11764,
+      "nav": 20.4346,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000X67S",
+      "thailand_fund_code": "K-JPX",
+      "nav_return": 2.09592,
+      "nav": 15.7534,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000011HR9",
+      "thailand_fund_code": "SCBNK225P",
+      "nav_return": 1.98464,
+      "nav": 21.6802,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000013QE1",
+      "thailand_fund_code": "SCBNK225E",
+      "nav_return": 1.98416,
+      "nav": 21.5208,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000QJNL",
+      "thailand_fund_code": "SCBNK225D",
+      "nav_return": 1.97615,
+      "nav": 16.2849,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000QJNM",
+      "thailand_fund_code": "SCBNK225",
+      "nav_return": 1.97586,
+      "nav": 22.3366,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000WIAB",
+      "thailand_fund_code": "SCBRMJP",
+      "nav_return": 1.92702,
+      "nav": 15.3251,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000RW6Q",
+      "thailand_fund_code": "TJPRMF",
+      "nav_return": 1.91226,
+      "nav": 17.6918,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000W68B",
+      "thailand_fund_code": "TMBJERMF",
+      "nav_return": 1.91075,
+      "nav": 14.1907,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000016FFT",
+      "thailand_fund_code": "ASP-JHC",
+      "nav_return": 1.9019,
+      "nav": 10.3595,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000XAZR",
+      "thailand_fund_code": "KT-JAPAN-A",
+      "nav_return": 1.8919,
+      "nav": 15.2577,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000XAZS",
+      "thailand_fund_code": "KT-JAPAN-D",
+      "nav_return": 1.89137,
+      "nav": 13.6942,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000016A1J",
+      "thailand_fund_code": "KFACHINRMF",
+      "nav_return": 1.85938,
+      "nav": 8.1953,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F0000107C7",
+      "thailand_fund_code": "KFACHINA-A",
+      "nav_return": 1.85002,
+      "nav": 11.6548,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000VDHO",
+      "thailand_fund_code": "TMBJE",
+      "nav_return": 1.84477,
+      "nav": 16.3393,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000016A1K",
+      "thailand_fund_code": "KFACHINSSF",
+      "nav_return": 1.83882,
+      "nav": 8.1911,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000014WV2",
+      "thailand_fund_code": "TMB-ES-CHINA-A",
+      "nav_return": 1.8262,
+      "nav": 11.0848,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F0000108A0",
+      "thailand_fund_code": "B-CHINE-EQ",
+      "nav_return": 1.77854,
+      "nav": 13.3336,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000WLBP",
+      "thailand_fund_code": "KFJAPANRMF",
+      "nav_return": 1.75209,
+      "nav": 13.2701,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F0000172TK",
+      "thailand_fund_code": "ONE-UJE-RA",
+      "nav_return": 1.71862,
+      "nav": 11.2903,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F0000190RH",
+      "thailand_fund_code": "SCBIHEALTH(A)",
+      "nav_return": 1.65646,
+      "nav": 10.5132,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F00001B174",
+      "thailand_fund_code": "SCBIHEALTH(P)",
+      "nav_return": 1.65646,
+      "nav": 10.5132,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F00000VCN2",
+      "thailand_fund_code": "KF-HJAPAND",
+      "nav_return": 1.64881,
+      "nav": 10.5853,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000019PCA",
+      "thailand_fund_code": "B-CHINESSF",
+      "nav_return": 1.62629,
+      "nav": 9.211,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000JQT9",
+      "thailand_fund_code": "UOBSG-D",
+      "nav_return": 1.59298,
+      "nav": 11.537,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.178306
+    },
+    {
+      "mstar_id": "F00000JQT8",
+      "thailand_fund_code": "UOBSG-N",
+      "nav_return": 1.59281,
+      "nav": 12.7118,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.178306
+    },
+    {
+      "mstar_id": "F000016FUP",
+      "thailand_fund_code": "LHJAPE-E",
+      "nav_return": 1.57325,
+      "nav": 11.4147,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000XM7G",
+      "thailand_fund_code": "LHJAPE-D",
+      "nav_return": 1.57282,
+      "nav": 11.3209,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000016FUO",
+      "thailand_fund_code": "LHJAPE-A",
+      "nav_return": 1.57217,
+      "nav": 11.4224,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000017HY8",
+      "thailand_fund_code": "TUSMS",
+      "nav_return": 1.53935,
+      "nav": 10.784,
+      "nav_date": "2021-09-02T00:00:00.000Z",
+      "avg_return": 0.298859
+    },
+    {
+      "mstar_id": "F00000WTXA",
+      "thailand_fund_code": "TISCOIN",
+      "nav_return": 1.53038,
+      "nav": 17.2382,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.418832
+    },
+    {
+      "mstar_id": "F000000RJ8",
+      "thailand_fund_code": "TMBGOLD",
+      "nav_return": 1.52936,
+      "nav": 23.1205,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.178306
+    },
+    {
+      "mstar_id": "F000011F2W",
+      "thailand_fund_code": "K-VIETNAM",
+      "nav_return": 1.52442,
+      "nav": 14.392,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.662788
+    },
+    {
+      "mstar_id": "F000000RF9",
+      "thailand_fund_code": "ASIA-E",
+      "nav_return": 1.51513,
+      "nav": 11.8458,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": -0.006421
+    },
+    {
+      "mstar_id": "F000013QE5",
+      "thailand_fund_code": "SCBCHAE",
+      "nav_return": 1.49434,
+      "nav": 11.6617,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00001CH9O",
+      "thailand_fund_code": "SCBCHAA",
+      "nav_return": 1.48638,
+      "nav": 10.9254,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000011HRA",
+      "thailand_fund_code": "SCBCHAP",
+      "nav_return": 1.48638,
+      "nav": 10.9255,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000017HYC",
+      "thailand_fund_code": "SCBCHA-SSF",
+      "nav_return": 1.48575,
+      "nav": 10.7787,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000VCHI",
+      "thailand_fund_code": "SCBCHA",
+      "nav_return": 1.48562,
+      "nav": 10.766,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000SQA7",
+      "thailand_fund_code": "PRINCIPAL JEQ",
+      "nav_return": 1.48493,
+      "nav": 16.9081,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000000RSO",
+      "thailand_fund_code": "KF-ORTFLEX",
+      "nav_return": 1.46204,
+      "nav": 25.3024,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.110211
+    },
+    {
+      "mstar_id": "F0000183NR",
+      "thailand_fund_code": "SCBRMCHA",
+      "nav_return": 1.44697,
+      "nav": 9.8323,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000014YAN",
+      "thailand_fund_code": "TBIOTECH",
+      "nav_return": 1.42257,
+      "nav": 20.3756,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00000Z177",
+      "thailand_fund_code": "KF-JPSCAPD",
+      "nav_return": 1.41101,
+      "nav": 11.0107,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000J85Y",
+      "thailand_fund_code": "ONE-CHINA",
+      "nav_return": 1.39541,
+      "nav": 8.1674,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000001F9J",
+      "thailand_fund_code": "ASP-BRIC",
+      "nav_return": 1.39339,
+      "nav": 8.3901,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.16081
+    },
+    {
+      "mstar_id": "F000013G21",
+      "thailand_fund_code": "ASP-IHEALTH",
+      "nav_return": 1.38928,
+      "nav": 17.9244,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F000016H38",
+      "thailand_fund_code": "PRINCIPAL GHEALTH-A",
+      "nav_return": 1.36262,
+      "nav": 9.8564,
+      "nav_date": "2021-09-02T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00000TOVN",
+      "thailand_fund_code": "PRINCIPAL KOS",
+      "nav_return": 1.36128,
+      "nav": 9.9181,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.522665
+    },
+    {
+      "mstar_id": "F000013QNO",
+      "thailand_fund_code": "SCBKEQTGE",
+      "nav_return": 1.35099,
+      "nav": 13.6078,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.522665
+    },
+    {
+      "mstar_id": "F000011HR5",
+      "thailand_fund_code": "SCBKEQTGP",
+      "nav_return": 1.34955,
+      "nav": 13.4652,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.522665
+    },
+    {
+      "mstar_id": "F00000U98P",
+      "thailand_fund_code": "SCBKEQTG",
+      "nav_return": 1.34883,
+      "nav": 13.4405,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.522665
+    },
+    {
+      "mstar_id": "F00000T6KF",
+      "thailand_fund_code": "PRINCIPAL KEQ",
+      "nav_return": 1.34853,
+      "nav": 10.2962,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.522665
+    },
+    {
+      "mstar_id": "F00001AD26",
+      "thailand_fund_code": "BCAP-CLEAN",
+      "nav_return": 1.31294,
+      "nav": 9.8811,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F00001CDZQ",
+      "thailand_fund_code": "ONE-APACESG",
+      "nav_return": 1.30934,
+      "nav": 10.2444,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.522665
+    },
+    {
+      "mstar_id": "F000001W1G",
+      "thailand_fund_code": "KKP GHC",
+      "nav_return": 1.27051,
+      "nav": 18.9111,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00000WW3C",
+      "thailand_fund_code": "TMBJPNAE",
+      "nav_return": 1.25202,
+      "nav": 13.4165,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000MWHU",
+      "thailand_fund_code": "ONEPROP-SG",
+      "nav_return": 1.2424,
+      "nav": 15.8277,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.107145
+    },
+    {
+      "mstar_id": "F000011HT2",
+      "thailand_fund_code": "SCBGHCP",
+      "nav_return": 1.23192,
+      "nav": 13.5916,
+      "nav_date": "2021-09-02T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00000W9L4",
+      "thailand_fund_code": "SCBGHC",
+      "nav_return": 1.22799,
+      "nav": 13.5604,
+      "nav_date": "2021-09-02T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00001CIBQ",
+      "thailand_fund_code": "SCBGHCA",
+      "nav_return": 1.22793,
+      "nav": 13.5267,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00000WIIM",
+      "thailand_fund_code": "SCBRMGHC",
+      "nav_return": 1.2277,
+      "nav": 16.1297,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F000016LIQ",
+      "thailand_fund_code": "WE-TENERGY",
+      "nav_return": 1.22352,
+      "nav": 9.1663,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F000000RU6",
+      "thailand_fund_code": "KWI DRAGON",
+      "nav_return": 1.22253,
+      "nav": 20.6746,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000WAPF",
+      "thailand_fund_code": "T-JapanEQ",
+      "nav_return": 1.22103,
+      "nav": 12.9321,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000016LB3",
+      "thailand_fund_code": "MFTECH",
+      "nav_return": 1.17927,
+      "nav": 9.7295,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.324031
+    },
+    {
+      "mstar_id": "F000015NL0",
+      "thailand_fund_code": "KFF21B",
+      "nav_return": 1.17607,
+      "nav": 10.1256,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": -0.006421
+    },
+    {
+      "mstar_id": "F00000SX33",
+      "thailand_fund_code": "UOBSJSM",
+      "nav_return": 1.16878,
+      "nav": 22.5573,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F00000VUGP",
+      "thailand_fund_code": "TGHSTARP",
+      "nav_return": 1.15677,
+      "nav": 13.7786,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F000016N2P",
+      "thailand_fund_code": "SCBCLEANA",
+      "nav_return": 1.1555,
+      "nav": 9.6735,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F000015ZHH",
+      "thailand_fund_code": "TISCOCHA-SSF",
+      "nav_return": 1.1544,
+      "nav": 13.2784,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000013V8D",
+      "thailand_fund_code": "TISCOCHA-A",
+      "nav_return": 1.15365,
+      "nav": 13.2781,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F00000T299",
+      "thailand_fund_code": "JSM",
+      "nav_return": 1.1501,
+      "nav": 22.3566,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F000015NKZ",
+      "thailand_fund_code": "KFF21C",
+      "nav_return": 1.15001,
+      "nav": 10.1237,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": -0.006421
+    },
+    {
+      "mstar_id": "F0000152JV",
+      "thailand_fund_code": "PRINCIPAL TDIF-X",
+      "nav_return": 1.14593,
+      "nav": 8.9589,
+      "nav_date": "2021-08-17T00:00:00.000Z",
+      "avg_return": -0.545874
+    },
+    {
+      "mstar_id": "F000016LAZ",
+      "thailand_fund_code": "UCHI",
+      "nav_return": 1.13953,
+      "nav": 8.8933,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F00000WI2H",
+      "thailand_fund_code": "ABAGS",
+      "nav_return": 1.13953,
+      "nav": 19.3979,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 0.298859
+    },
+    {
+      "mstar_id": "F00000VSQO",
+      "thailand_fund_code": "T-CHCHALLENGE#1",
+      "nav_return": 1.12593,
+      "nav": 6.8709,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": -0.006421
+    },
+    {
+      "mstar_id": "F000005QMB",
+      "thailand_fund_code": "KF-CHINA",
+      "nav_return": 1.12518,
+      "nav": 8.3673,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000013BHG",
+      "thailand_fund_code": "TGHDIGI",
+      "nav_return": 1.12074,
+      "nav": 19.2941,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.308884
+    },
+    {
+      "mstar_id": "F000013YW0",
+      "thailand_fund_code": "SCBUSSMP",
+      "nav_return": 1.11964,
+      "nav": 17.4759,
+      "nav_date": "2021-09-02T00:00:00.000Z",
+      "avg_return": 0.298859
+    },
+    {
+      "mstar_id": "F00000XB6P",
+      "thailand_fund_code": "SCBUSSM",
+      "nav_return": 1.11964,
+      "nav": 17.4759,
+      "nav_date": "2021-09-02T00:00:00.000Z",
+      "avg_return": 0.298859
+    },
+    {
+      "mstar_id": "F000013LBO",
+      "thailand_fund_code": "UJSMRMF",
+      "nav_return": 1.11783,
+      "nav": 11.4702,
+      "nav_date": "2021-09-06T00:00:00.000Z",
+      "avg_return": 1.432127
+    },
+    {
+      "mstar_id": "F0000164X7",
+      "thailand_fund_code": "TCHARMF-A",
+      "nav_return": 1.11622,
+      "nav": 10.0112,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F0000164XA",
+      "thailand_fund_code": "TCHARMF-P",
+      "nav_return": 1.11614,
+      "nav": 10.0118,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    },
+    {
+      "mstar_id": "F000004109",
+      "thailand_fund_code": "KT-ENERGY",
+      "nav_return": 1.09693,
+      "nav": 7.3178,
+      "nav_date": "2021-09-03T00:00:00.000Z",
+      "avg_return": 0.19715
+    },
+    {
+      "mstar_id": "F000010TRX",
+      "thailand_fund_code": "UVO",
+      "nav_return": 1.08877,
+      "nav": 12.8381,
+      "nav_date": "2021-09-01T00:00:00.000Z",
+      "avg_return": 0.662788
+    },
+    {
+      "mstar_id": "F000000RJ7",
+      "thailand_fund_code": "TMBCHEQ",
+      "nav_return": 1.0883,
+      "nav": 7.6714,
+      "nav_date": "2021-09-07T00:00:00.000Z",
+      "avg_return": 0.290665
+    }
+  ]
+}
